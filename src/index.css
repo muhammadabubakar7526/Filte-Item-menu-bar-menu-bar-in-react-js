@@ -11,3 +11,144 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#first{
+  height: 80px;
+  /* border: 1px solid; */
+  background-color: white;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+#second{
+  height: 80px;
+  /* border: 1px solid; */
+  background-color: white;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+button{
+  overflow: hidden;
+  float: left;
+}
+button:hover{
+  margin-top: 5px;
+}
+#third{
+ min-height: 490px;
+ max-height: auto;
+  /* border: 1px solid; */
+  background-color: white;
+  font-weight: 900;
+ 
+
+}
+.container{
+  width: 1200px;
+  height: 100%;
+}
+#t1{
+
+  height: 200px;
+  /* border: 1px solid; */
+  float: left;
+  background-color: white;
+}
+#left{
+  height: 100%;
+  /* border: 1px solid; */
+  float: left;
+}
+#right{
+  height: 100%;
+  /* border: 1px solid; */
+  float: left;
+}
+#title{
+  height: 50px;
+  border-bottom: 1px solid;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#desc{
+  height: 120px;
+  /* border: 1px solid; */
+  font-size: 13px;
+  font-weight: 500;
+}
+#img{
+  height: 100%;
+  width: 98%;
+  border-radius: 5px;
+}
+/* 
+
+#t2{
+
+  height: 200px;
+  border: 1px solid;
+  float: left;
+  background-color: brown;
+}
+
+#four{
+  height: 200px;
+  border: 1px solid;
+  background-color: grey;
+  font-weight: 900;
+ 
+
+}
+
+
+#f1{
+
+  height: 200px;
+  border: 1px solid;
+  background-color: brown;
+  float: left;
+}
+#f2{
+
+  height: 200px;
+  border: 1px solid;
+  background-color: blue;
+  float: left;
+}
+#f3{
+
+  height: 200px;
+  border: 1px solid;
+  background-color: blue;
+
+  float: left;
+}
+#f4{
+
+  height: 200px;
+  border: 1px solid;
+  background-color: green;
+  float: left;
+}
+#five{
+  height: 200px;
+  border: 1px solid;
+  background-color: grey;
+  font-weight: 900;
+
+
+}
+
+
+#f2{
+
+  height: 200px;
+  border: 1px solid;
+  float: left;
+} */
