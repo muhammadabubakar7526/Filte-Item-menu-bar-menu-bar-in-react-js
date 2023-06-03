@@ -27,8 +27,7 @@ const First = () => {
       <div className="container-fluid">
         <div className="row">
           <div className="col-12" id="first">
-            Our Menu Updated With Vercel every time we pushed code it will
-            update the vercel link
+            Our Menu
           </div>
         </div>
         {/* this is second */}
